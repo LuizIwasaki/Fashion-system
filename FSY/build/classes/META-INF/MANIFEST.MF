@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.8
+Created-By: 16.0.2+7-67 (Oracle Corporation)
+Class-Path: lib/org.eclipse.persistence.core-2.7.7.jar lib/org.eclipse
+ .persistence.asm-2.7.7.jar lib/org.eclipse.persistence.antlr-2.7.7.ja
+ r lib/org.eclipse.persistence.jpa-2.7.7.jar lib/org.eclipse.persisten
+ ce.jpa.jpql-2.7.7.jar lib/org.eclipse.persistence.moxy-2.7.7.jar lib/
+ javax.persistence-2.2.1.jar lib/mysql-connector-java-8.0.25.jar lib/A
+ bsoluteLayout.jar lib/commons-beanutils-1.8.2.jar lib/commons-collect
+ ions-3.2.1.jar lib/commons-digester-1.7.jar lib/commons-logging-1.1.j
+ ar lib/groovy-all-1.5.5.jar lib/itext-2.1.7.jar lib/jasperreports-6.6
+ .0.jar lib/postgresql-42.2.16.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: visao.TelaLogin
+

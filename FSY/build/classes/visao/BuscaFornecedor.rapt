@@ -1,0 +1,15 @@
+modelo/Recebimento_.java
+modelo/ItemVendaPK_.java
+modelo/Cliente_.java
+modelo/ItemCompra_.java
+modelo/Funcionario_.java
+modelo/ItemVenda_.java
+modelo/RecebimentoPK_.java
+modelo/Compra_.java
+modelo/Caixa_.java
+modelo/ItemCompraPK_.java
+modelo/Roupa_.java
+modelo/TipoRoupa_.java
+modelo/Fornecedor_.java
+modelo/Despesa_.java
+modelo/Venda_.java
